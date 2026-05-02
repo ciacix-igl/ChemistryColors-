@@ -1,0 +1,85 @@
+﻿Wzor;Nazwa;Kategoria;Barwa_glowna;Synonimy;Stan;HEX
+Cr^{2+};kation chromu(II);jon;niebieski;niebieska;roztwor;#005A9C
+Cr^{3+};kation chromu(III);jon;zielony;zielona,szarozielony;roztwor;#228B22
+CrO4^{2-};anion chromianowy(VI);jon;żółty;żółta,zolty;roztwor;#FFD700
+Cr2O7^{2-};anion dichromianowy(VI);jon;pomarańczowy;pomarańczowa,pomaranczowy;roztwor;#FF8C00
+Mn^{2+};kation manganu(II);jon;bladoróżowy;różowy,bladoróżowa,rozowy;roztwor;#FFB6C1
+MnO4^{2-};anion manganianowy(VI);jon;zielony;zielona;roztwor;#228B22
+MnO4^{-};anion nadmanganianowy(VII);jon;fioletowy;fioletowa,ciemnofioletowy;roztwor;#800080
+Fe^{2+};kation żelaza(II);jon;bladozielony;bladozielona,zielony,jasnozielony;roztwor;#98FB98
+Fe^{3+};kation żelaza(III);jon;żółty;żółta,zolty;roztwor;#FFD700
+Cu^{+};kation miedzi(I);jon;bezbarwny;bezbarwna;roztwor;#F0F8FF
+Cu^{2+};kation miedzi(II);jon;niebieski;niebieska,błękitny;roztwor;#005A9C
+Co^{2+};kation kobaltu(II);jon;różowy;różowa,rozowy;roztwor;#FF69B4
+Ni^{2+};kation niklu(II);jon;zielony;zielona;roztwor;#32CD32
+Zn^{2+};kation cynku;jon;bezbarwny;bezbarwna;roztwor;#F0F8FF
+Al^{3+};kation glinu;jon;bezbarwny;bezbarwna;roztwor;#F0F8FF
+[Cu(NH3)4]^{2+};jon tetraaminamiedzi(II);jon kompleksowy;granatowy;ciemnoniebieski,szafirowy;roztwor;#000080
+FeSCN^{2+};jon tiocyjanianożelaza(III);jon kompleksowy;krwistoczerwony;czerwony,ciemnoczerwony;roztwor;#8A0303
+[Ni(DMG)2];dimetyloglioksymian niklu(II);jon kompleksowy;malinowy;różowy,rosy red,malinowoczerwony;osad;#E32636
+Fe4[Fe(CN)6]3;błękit pruski;jon kompleksowy;ciemnoniebieski;granatowy,niebieski;osad;#003153
+Cr2O3;tlenek chromu(III);tlenek;zielony;szarozielony;osad;#4A5D23
+CrO3;tlenek chromu(VI);tlenek;ciemnoczerwony;czerwony;osad;#8B0000
+MnO2;tlenek manganu(IV);tlenek;brunatny;brązowy,brazowy,czarnobrunatny;osad;#8B4513
+FeO;tlenek żelaza(II);tlenek;czarny;czarna;osad;#1A1A1A
+Fe2O3;tlenek żelaza(III);tlenek;czerwonobrunatny;rdzawy,brunatny;osad;#8A3324
+Fe3O4;tlenek żelaza(II, III) / magnetyt;tlenek;czarny;czarna;osad;#1A1A1A
+Cu2O;tlenek miedzi(I);tlenek;ceglastoczerwony;ceglasty,czerwony;osad;#CB4154
+CuO;tlenek miedzi(II);tlenek;czarny;czarna;osad;#1A1A1A
+Ag2O;tlenek srebra(I);tlenek;brunatny;brązowy;osad;#8B4513
+ZnO;tlenek cynku;tlenek;biały;żółty na gorąco,bialy;osad;#FFFFFF
+Al2O3;tlenek glinu;tlenek;biały;bialy;osad;#FFFFFF
+PbO2;tlenek ołowiu(IV);tlenek;brunatny;brązowy,czarny;osad;#5C4033
+Pb3O4;minia ołowiana;tlenek;czerwony;pomarańczowoczerwony;osad;#FF2400
+Cr(OH)3;wodorotlenek chromu(III);wodorotlenek;szarozielony;zielony,szarozielona;osad;#5E716A
+Mn(OH)2;wodorotlenek manganu(II);wodorotlenek;biały;bialy,brunatnieje;osad;#FFFFFF
+Fe(OH)2;wodorotlenek żelaza(II);wodorotlenek;jasnozielony;białawy,zielonobiały;osad;#90EE90
+Fe(OH)3;wodorotlenek żelaza(III);wodorotlenek;czerwonobrunatny;rdzawy,brunatny;osad;#8A3324
+Cu(OH)2;wodorotlenek miedzi(II);wodorotlenek;niebieski;niebieska,galaretowaty;osad;#4682B4
+Zn(OH)2;wodorotlenek cynku;wodorotlenek;biały;bialy;osad;#FFFFFF
+Al(OH)3;wodorotlenek glinu;wodorotlenek;biały;bialy,galaretowaty;osad;#FFFFFF
+Ni(OH)2;wodorotlenek niklu(II);wodorotlenek;zielony;zielona;osad;#32CD32
+Co(OH)2;wodorotlenek kobaltu(II);wodorotlenek;różowy;niebieski;osad;#FFC0CB
+AgCl;chlorek srebra;sol (osad);biały;biala,serowaty biały;osad;#FFFFFF
+AgBr;bromek srebra;sol (osad);jasnożółty;żółty,kremowy;osad;#FFFACD
+AgI;jodek srebra;sol (osad);żółty;żółta,zolty;osad;#FFD700
+PbCl2;chlorek ołowiu(II);sol (osad);biały;bialy;osad;#FFFFFF
+PbI2;jodek ołowiu(II);sol (osad);żółty;zolty;osad;#FFD700
+Hg2Cl2;chlorek rtęci(I) (kalomel);sol (osad);biały;bialy;osad;#FFFFFF
+Hg2I2;jodek rtęci(I);sol (osad);zielony;zielona;osad;#228B22
+HgI2;jodek rtęci(II);sol (osad);czerwony;czerwona;osad;#FF0000
+CuI;jodek miedzi(I);sol (osad);biały;bialy;osad;#FFFFFF
+ZnS;siarczek cynku;siarczek (osad);biały;bialy;osad;#FFFFFF
+CdS;siarczek kadmu;siarczek (osad);żółty;zolty;osad;#FFD700
+MnS;siarczek manganu(II);siarczek (osad);cielisty;różowy,różowobrunatny;osad;#FFC0CB
+CuS;siarczek miedzi(II);siarczek (osad);czarny;czarna;osad;#1A1A1A
+PbS;siarczek ołowiu(II);siarczek (osad);czarny;czarna;osad;#1A1A1A
+Ag2S;siarczek srebra;siarczek (osad);czarny;czarna;osad;#1A1A1A
+HgS;siarczek rtęci(II);siarczek (osad);czarny;czarna;osad;#1A1A1A
+FeS;siarczek żelaza(II);siarczek (osad);czarny;czarna;osad;#1A1A1A
+NiS;siarczek niklu(II);siarczek (osad);czarny;czarna;osad;#1A1A1A
+SnS;siarczek cyny(II);siarczek (osad);brunatny;brązowy;osad;#8B4513
+SnS2;siarczek cyny(IV);siarczek (osad);żółty;zolty;osad;#FFD700
+As2S3;siarczek arsenu(III);siarczek (osad);żółty;zolty;osad;#FFD700
+Sb2S3;siarczek antymonu(III);siarczek (osad);pomarańczowy;pomaranczowy;osad;#FF8C00
+BaSO4;siarczan(VI) baru;sol (osad);biały;bialy;osad;#FFFFFF
+PbSO4;siarczan(VI) ołowiu(II);sol (osad);biały;bialy;osad;#FFFFFF
+CaCO3;węglan wapnia;sol (osad);biały;bialy;osad;#FFFFFF
+CuCO3;węglan miedzi(II) / hydroksowęglany;sol (osad);zielony;niebieskozielony,niebieski;osad;#2E8B57
+Ag3PO4;fosforan(V) srebra;sol (osad);żółty;zolty;osad;#FFD700
+Ag2CrO4;chromian(VI) srebra;sol (osad);ceglastoczerwony;czerwony,ceglasty;osad;#CB4154
+BaCrO4;chromian(VI) baru;sol (osad);żółty;zolty;osad;#FFD700
+PbCrO4;chromian(VI) ołowiu(II);sol (osad);żółty;zolty;osad;#FFD700
+F2;fluor (gaz);gaz;jasnożółty;żółty;gaz;#FFFACD
+Cl2;chlor (gaz);gaz;żółtozielony;zielonożółty,zielony;gaz;#ADFF2F
+Br2;brom (ciecz/pary);pierwiastek;brunatny;brązowy,czerwony,czerwonobrunatny;gaz;#8B4513
+I2;jod (pary);gaz;fioletowy;fioletowa;gaz;#800080
+NO2;tlenek azotu(IV) (gaz);gaz;brunatny;brązowy,brazowy;gaz;#8B4513
+O3;ozon (gaz);gaz;niebieski;jasnoniebieski;gaz;#87CEEB
+Na;sód (płomień);plomien;żółty;jasnożółta,zolty;plomien;#FFD700
+K;potas (płomień);plomien;różowofioletowy;liliowy,fioletowy;plomien;#DDA0DD
+Ca;wapń (płomień);plomien;ceglastoczerwony;ceglasty,czerwony;plomien;#CB4154
+Ba;bar (płomień);plomien;zielony;zielonożółta,zielonożółty;plomien;#7CFC00
+Cu;miedź (płomień);plomien;zielony;niebieskozielony;plomien;#00FA9A
+Sr;stront (płomień);plomien;czerwony;karminowy;plomien;#FF0000
+Li;lit (płomień);plomien;karminowy;czerwony;plomien;#D70040

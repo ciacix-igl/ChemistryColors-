@@ -83,3 +83,131 @@ Ba;bar (płomień);plomien;zielony;zielonożółta,zielonożółty;plomien;#7CFC
 Cu;miedź (płomień);plomien;zielony;niebieskozielony;plomien;#00FA9A
 Sr;stront (płomień);plomien;czerwony;karminowy;plomien;#FF0000
 Li;lit (płomień);plomien;karminowy;czerwony;plomien;#D70040
+NaCl;chlorek sodu;sol (osad);bezbarwny;bezbarwna, biała;roztwór;#F0F8FF
+CuCl2;chlorek miedzi(II);sol (osad);zielony;zielona, szmaragdowa;roztwór;#008B8B
+FeCl2;chlorek żelaza(II);sol (osad);bladozielony;bladozielona, jasnozielona;roztwór;#98FB98
+FeCl3;chlorek żelaza(III);sol (osad);żółty;żółta, rdzawa, brunatna;roztwór;#DAA520
+CoCl2;chlorek kobaltu(II);sol (osad);różowy;różowa, malinowa;roztwór;#FF69B4
+NiCl2;chlorek niklu(II);sol (osad);zielony;zielona, trawiasta;roztwór;#32CD32
+AgCl;chlorek srebra;sol (osad);biały;biała, serowata;osad;#FFFFFF
+PbCl2;chlorek ołowiu(II);sol (osad);biały;biała;osad;#FFFFFF
+NaBr;bromek sodu;sol (osad);bezbarwny;bezbarwna, biała;roztwór;#F0F8FF
+AgBr;bromek srebra;sol (osad);jasnożółty;jasnożółta, bladożółta;osad;#FFFACD
+CuBr2;bromek miedzi(II);sol (osad);ciemnobrunatny;brunatna, czarna;roztwór;#3E2723
+KI;jodek potasu;sol (osad);bezbarwny;bezbarwna, biała;roztwór;#F0F8FF
+AgI;jodek srebra;sol (osad);żółty;żółta, jasnożółta;osad;#FFD700
+PbI2;jodek ołowiu(II);sol (osad);żółty;złota, kanarkowa;osad;#FFC107
+HgI2;jodek rtęci(II);sol (osad);czerwony;szkarłatna, czerwona;osad;#FF0000
+CaF2;fluorek wapnia;sol (osad);biały;biała;osad;#FFFFFF
+Na2S;siarczek sodu;sol (osad);bezbarwny;bezbarwna, biała;roztwór;#F0F8FF
+CuS;siarczek miedzi(II);sol (osad);czarny;czarna;osad;#1A1A1A
+Ag2S;siarczek srebra;sol (osad);czarny;czarna;osad;#1A1A1A
+PbS;siarczek ołowiu(II);sol (osad);czarny;czarna, ołowianoszara;osad;#1A1A1A
+ZnS;siarczek cynku;sol (osad);biały;biała;osad;#FFFFFF
+MnS;siarczek manganu(II);sol (osad);różowy;cielista, bladoróżowa;osad;#FFC0CB
+CdS;siarczek kadmu;sol (osad);żółty;żółta, kanarkowa;osad;#FFD700
+Na2SO4;siarczan(VI) sodu;sol (osad);bezbarwny;bezbarwna, biała;roztwór;#F0F8FF
+CuSO4;siarczan(VI) miedzi(II);sol (osad);niebieski;niebieska, błękitna;roztwór;#005A9C
+FeSO4;siarczan(VI) żelaza(II);sol (osad);bladozielony;bladozielona, jasnozielona;roztwór;#98FB98
+Fe2(SO4)3;siarczan(VI) żelaza(III);sol (osad);żółtawy;żółta, rdzawa;roztwór;#F4A460
+CoSO4;siarczan(VI) kobaltu(II);sol (osad);różowy;różowa, czerwona;roztwór;#FF69B4
+NiSO4;siarczan(VI) niklu(II);sol (osad);zielony;zielona, szmaragdowa;roztwór;#32CD32
+MnSO4;siarczan(VI) manganu(II);sol (osad);bladoróżowy;bladoróżowa, jasna;roztwór;#FFF0F5
+BaSO4;siarczan(VI) baru;sol (osad);biały;biała, ciężka;osad;#FFFFFF
+PbSO4;siarczan(VI) ołowiu(II);sol (osad);biały;biała;osad;#FFFFFF
+KNO3;azotan(V) potasu;sol (osad);bezbarwny;bezbarwna, biała;roztwór;#F0F8FF
+Cu(NO3)2;azotan(V) miedzi(II);sol (osad);niebieski;niebieska, błękitna;roztwór;#005A9C
+Fe(NO3)3;azotan(V) żelaza(III);sol (osad);jasnożółty;jasnożółta, fioletowawa;roztwór;#F5DEB3
+Co(NO3)2;azotan(V) kobaltu(II);sol (osad);czerwony;czerwona, karminowa;roztwór;#DC143C
+Ni(NO3)2;azotan(V) niklu(II);sol (osad);zielony;zielona, trawiasta;roztwór;#32CD32
+AgNO3;azotan(V) srebra;sol (osad);bezbarwny;bezbarwna, biała;roztwór;#F0F8FF
+Pb(NO3)2;azotan(V) ołowiu(II);sol (osad);bezbarwny;bezbarwna, biała;roztwór;#F0F8FF
+Na2CO3;węglan sodu;sol (osad);bezbarwny;bezbarwna, biała;roztwór;#F0F8FF
+CaCO3;węglan wapnia;sol (osad);biały;biała;osad;#FFFFFF
+CuCO3;węglan miedzi(II);sol (osad);zielony;zielona, malachitowa;osad;#2E8B57
+Ag2CO3;węglan srebra;sol (osad);żółtawy;żółta, jasnożółta;osad;#EEE8AA
+MnCO3;węglan manganu(II);sol (osad);różowy;różowa, jasnoróżowa;osad;#FFB6C1
+CoCO3;węglan kobaltu(II);sol (osad);różowy;różowa, fiołkowa;osad;#DB7093
+NiCO3;węglan niklu(II);sol (osad);jasnozielony;jasnozielona;osad;#90EE90
+Na3PO4;fosforan(V) sodu;sol (osad);bezbarwny;bezbarwna, biała;roztwór;#F0F8FF
+Ag3PO4;fosforan(V) srebra;sol (osad);żółty;żółta;osad;#FFD700
+Cu3(PO4)2;fosforan(V) miedzi(II);sol (osad);niebieskozielony;niebieska, zielononiebieska;osad;#008080
+K2CrO4;chromian(VI) potasu;sol (osad);żółty;żółta, cytrynowa;roztwór;#FFD700
+Na2Cr2O7;dichromian(VI) sodu;sol (osad);pomarańczowy;pomarańczowa;roztwór;#FF8C00
+PbCrO4;chromian(VI) ołowiu(II);sol (osad);żółty;żółta, chromowa;osad;#FFCC00
+Ag2CrO4;chromian(VI) srebra;sol (osad);brunatnoczerwony;ceglasta, czerwona;osad;#CB4154
+BaCrO4;chromian(VI) baru;sol (osad);żółty;żółta, bladożółta;osad;#F0E68C
+KMnO4;nadmanganian(VII) potasu;sol (osad);fioletowy;fioletowa, purpurowa;roztwór;#800080
+KClO4;nadchloran(VII) potasu;sol (osad);bezbarwny;bezbarwna, biała;roztwór;#F0F8FF
+AgClO4;nadchloran(VII) srebra;sol (osad);bezbarwny;bezbarwna;roztwór;#F0F8FF
+KCN;cyjanek potasu;sol (osad);bezbarwny;bezbarwna, biała;roztwór;#F0F8FF
+AgCN;cyjanek srebra;sol (osad);biały;biała;osad;#FFFFFF
+Cu(OH)2;wodorotlenek miedzi(II);wodorotlenek;niebieski;niebieska, galaretowata;osad;#005A9C
+Fe(OH)2;wodorotlenek żelaza(II);wodorotlenek;jasnozielony;bladozielona, szybko brunatnieje;osad;#98FB98
+Fe(OH)3;wodorotlenek żelaza(III);wodorotlenek;rdzawy;rdzawobrunatna, brązowa;osad;#8A3324
+Co(OH)2;wodorotlenek kobaltu(II);wodorotlenek;różowy;różowa (niebieska w innej odmianie);osad;#FF69B4
+Ni(OH)2;wodorotlenek niklu(II);wodorotlenek;zielony;jabłkowozielona, jasna zieleń;osad;#32CD32
+Au(OH)3;wodorotlenek złota(III);wodorotlenek;żółtobrunatny;rdzawa, ochra, brunatna;osad;#B8860B
+Pd(OH)2;wodorotlenek palladu(II);wodorotlenek;ciemnobrunatny;czarna, brunatna;osad;#1A1A1A
+NaOH;wodorotlenek sodu;wodorotlenek;bezbarwny;biała (ciało stałe);roztwór;#F0F8FF
+KOH;wodorotlenek potasu;wodorotlenek;bezbarwny;biała (ciało stałe);roztwór;#F0F8FF
+Mg(OH)2;wodorotlenek magnezu;wodorotlenek;biały;biała;osad;#FFFFFF
+Ca(OH)2;wodorotlenek wapnia;wodorotlenek;biały;biała;osad;#FFFFFF
+Ba(OH)2;wodorotlenek baru;wodorotlenek;biały;biała, bezbarwny roztwór;osad;#FFFFFF
+Al(OH)3;wodorotlenek glinu;wodorotlenek;biały;biała, galaretowata;osad;#FFFFFF
+Zn(OH)2;wodorotlenek cynku;wodorotlenek;biały;biała, galaretowata;osad;#FFFFFF
+Cd(OH)2;wodorotlenek kadmu;wodorotlenek;biały;biała;osad;#FFFFFF
+Pb(OH)2;wodorotlenek ołowiu(II);wodorotlenek;biały;biała;osad;#FFFFFF
+Sn(OH)2;wodorotlenek cyny(II);wodorotlenek;biały;biała;osad;#FFFFFF
+Bi(OH)3;wodorotlenek bizmutu(III);wodorotlenek;biały;biała;osad;#FFFFFF
+MnO;tlenek manganu(II);tlenek;szarozielony;zielonawy, szary;proszek;#8FBC8F
+CoO;tlenek kobaltu(II);tlenek;oliwkowozielony;szarozielona, oliwkowa;proszek;#556B2F
+Co3O4;tlenek kobaltu(II,III);tlenek;czarny;czarna;proszek;#1A1A1A
+NiO;tlenek niklu(II);tlenek;zielony;jabłkowozielona, szarozielona;proszek;#4CAF50
+PbO;tlenek ołowiu(II);tlenek;żółty;żółta (glejta) lub czerwona (klejta);proszek;#FFD700
+HgO;tlenek rtęci(II);tlenek;czerwony;czerwona lub żółta (zależy od rozdrobnienia);proszek;#FF2400
+V2O5;tlenek wanadu(V);tlenek;pomarańczowy;żółtopomarańczowa, rdzawa;proszek;#FF8C00
+Bi2O3;tlenek bizmutu(III);tlenek;żółty;bladożółta;proszek;#F0E68C
+CdO;tlenek kadmu;tlenek;brunatny;brązowa, czerwonobrunatna;proszek;#8B4513
+TiO2;tlenek tytanu(IV);tlenek;biały;biała (biel tytanowa);proszek;#FFFFFF
+SnO2;tlenek cyny(IV);tlenek;biały;biała;proszek;#FFFFFF
+MgO;tlenek magnezu;tlenek;biały;biała (magnezja palona);proszek;#FFFFFF
+CaO;tlenek wapnia;tlenek;biały;biała (wapno palone);proszek;#FFFFFF
+BaO;tlenek baru;tlenek;biały;biała;proszek;#FFFFFF
+ClO2;tlenek chloru(IV);gaz;żółtozielony;zielonożółta;gaz;#9ACD32
+H2;wodór;gaz;bezbarwny;brak;gaz;#F0F8FF
+O2;tlen;gaz;bezbarwny;brak;gaz;#F0F8FF
+N2;azot;gaz;bezbarwny;brak;gaz;#F0F8FF
+CO2;tlenek węgla(IV);gaz;bezbarwny;dwutlenek węgla;gaz;#F0F8FF
+CO;tlenek węgla(II);gaz;bezbarwny;czad;gaz;#F0F8FF
+SO2;tlenek siarki(IV);gaz;bezbarwny;dwutlenek siarki;gaz;#F0F8FF
+H2S;siarkowodór;gaz;bezbarwny;zapach zgniłych jaj;gaz;#F0F8FF
+NH3;amoniak;gaz;bezbarwny;brak;gaz;#F0F8FF
+HCl;chlorowodór;gaz;bezbarwny;tworzy białą mgłę z wilgocią;gaz;#F0F8FF
+NO;tlenek azotu(II);gaz;bezbarwny;szybko brunatnieje (utlenia się do NO2);gaz;#F0F8FF
+N2O;tlenek azotu(I);gaz;bezbarwny;gaz rozweselający;gaz;#F0F8FF
+He;hel;gaz;bezbarwny;gaz szlachetny;gaz;#F0F8FF
+S;siarka;pierwiastek;żółty;cytrynowożółta, bladożółta;ciało stałe;#FFFF00
+Cu;miedź;pierwiastek;miedziany;łososioworóżowa, ruda, czerwonawa;ciało stałe;#B87333
+Au;złoto;pierwiastek;złoty;żółta, błyszcząca;ciało stałe;#FFD700
+Cs;cez;pierwiastek;złotawo-srebrzysty;bladozłota;ciało stałe;#E6DAA6
+Bi;bizmut;pierwiastek;srebrzystoróżowy;lekko różowa, połyskująca (często z tęczowym nalotem);ciało stałe;#F2E5E6
+P;fosfor czerwony;pierwiastek;ciemnoczerwony;wiśniowa, brunatnoczerwona;ciało stałe;#8B0000
+P;fosfor biały;pierwiastek;biały;żółtawa, woskowata (świeci w ciemności);ciało stałe;#FFFFE0
+P;fosfor czarny;pierwiastek;czarny;stalowoszara, metaliczna;ciało stałe;#1A1A1A
+C;węgiel (grafit);pierwiastek;czarny;stalowoszara;ciało stałe;#2F4F4F
+C;węgiel (diament);pierwiastek;bezbarwny;krystaliczna, przezroczysta;ciało stałe;#F0F8FF
+I2;jod (kryształy);pierwiastek;fioletowoczarny;ciemnoszara z metalicznym połyskiem;ciało stałe;#4B0082
+V^{2+};kation wanadu(II);jon;fioletowy;fioletowa;roztwór;#8A2BE2
+V^{3+};kation wanadu(III);jon;zielony;zielona;roztwór;#228B22
+VO^{2+};kation wanadylowy(IV);jon;niebieski;błękitna, niebieska;roztwór;#005A9C
+VO2^{+};kation dioksowanadu(V);jon;żółty;żółta;roztwór;#FFD700
+Ti^{3+};kation tytanu(III);jon;fioletowy;fioletowa, purpurowa;roztwór;#800080
+[Co(H2O)6]^{2+};jon heksaakwakobaltu(II);jon kompleksowy;różowy;jasnoróżowa;roztwór;#FF69B4
+[CoCl4]^{2-};jon tetrachlorokobaltanianowy(II);jon kompleksowy;niebieski;intensywnie niebieska, szafirowa;roztwór;#0000CD
+[CuCl4]^{2-};jon tetrachloromiedzianowy(II);jon kompleksowy;żółtozielony;zielona, oliwkowa;roztwór;#9ACD32
+[Fe(SCN)6]^{3-};jon heksatiocyjanianożelazianowy(III);jon kompleksowy;krwistoczerwony;głęboka czerwień;roztwór;#8A0303
+[Ag(NH3)2]^{+};jon diaminsrebra(I);jon kompleksowy;bezbarwny;odczynnik Tollensa;roztwór;#F0F8FF
+[Al(OH)4]^{-};jon tetrahydroksoglinianowy;jon kompleksowy;bezbarwny;przezroczysta;roztwór;#F0F8FF
+[Zn(OH)4]^{2-};jon tetrahydroksocynkanowy;jon kompleksowy;bezbarwny;przezroczysta;roztwór;#F0F8FF
+[Pb(OH)4]^{2-};jon tetrahydroksoołowianowy(II);jon kompleksowy;bezbarwny;przezroczysta;roztwór;#F0F8FF

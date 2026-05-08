@@ -142,11 +142,11 @@ KClO4;nadchloran(VII) potasu;sol (osad);bezbarwny;bezbarwna, biała;roztwór;#F0
 AgClO4;nadchloran(VII) srebra;sol (osad);bezbarwny;bezbarwna;roztwór;#F0F8FF
 KCN;cyjanek potasu;sol (osad);bezbarwny;bezbarwna, biała;roztwór;#F0F8FF
 AgCN;cyjanek srebra;sol (osad);biały;biała;osad;#FFFFFF
-Cu(OH)2;wodorotlenek miedzi(II);wodorotlenek;niebieski;niebieska, galaretowata;osad;#005A9C
-Fe(OH)2;wodorotlenek żelaza(II);wodorotlenek;jasnozielony;bladozielona, szybko brunatnieje;osad;#98FB98
-Fe(OH)3;wodorotlenek żelaza(III);wodorotlenek;rdzawy;rdzawobrunatna, brązowa;osad;#8A3324
-Co(OH)2;wodorotlenek kobaltu(II);wodorotlenek;różowy;różowa (niebieska w innej odmianie);osad;#FF69B4
-Ni(OH)2;wodorotlenek niklu(II);wodorotlenek;zielony;jabłkowozielona, jasna zieleń;osad;#32CD32
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
 Au(OH)3;wodorotlenek złota(III);wodorotlenek;żółtobrunatny;rdzawa, ochra, brunatna;osad;#B8860B
 Pd(OH)2;wodorotlenek palladu(II);wodorotlenek;ciemnobrunatny;czarna, brunatna;osad;#1A1A1A
 NaOH;wodorotlenek sodu;wodorotlenek;bezbarwny;biała (ciało stałe);roztwór;#F0F8FF
@@ -154,8 +154,8 @@ KOH;wodorotlenek potasu;wodorotlenek;bezbarwny;biała (ciało stałe);roztwór;#
 Mg(OH)2;wodorotlenek magnezu;wodorotlenek;biały;biała;osad;#FFFFFF
 Ca(OH)2;wodorotlenek wapnia;wodorotlenek;biały;biała;osad;#FFFFFF
 Ba(OH)2;wodorotlenek baru;wodorotlenek;biały;biała, bezbarwny roztwór;osad;#FFFFFF
-Al(OH)3;wodorotlenek glinu;wodorotlenek;biały;biała, galaretowata;osad;#FFFFFF
-Zn(OH)2;wodorotlenek cynku;wodorotlenek;biały;biała, galaretowata;osad;#FFFFFF
+;;;;;;
+;;;;;;
 Cd(OH)2;wodorotlenek kadmu;wodorotlenek;biały;biała;osad;#FFFFFF
 Pb(OH)2;wodorotlenek ołowiu(II);wodorotlenek;biały;biała;osad;#FFFFFF
 Sn(OH)2;wodorotlenek cyny(II);wodorotlenek;biały;biała;osad;#FFFFFF

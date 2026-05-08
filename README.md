@@ -26,5 +26,4 @@ Jeśli chcesz pobrać ten kod i uruchomić go na własnym komputerze, postępuj 
 
 1. **Sklonuj repozytorium:**
    ```bash
-   git clone [https://github.com/TwojaNazwaUzytkownika/Matura-Chemia.git](https://github.com/TwojaNazwaUzytkownika/Matura-Chemia.git)
-   cd Matura-Chemia
+   

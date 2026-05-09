@@ -56,16 +56,17 @@ def renderuj_grafike(stan, hex_color, is_dark):
     if not hex_color or hex_color == 'nan': hex_color = '#FFFFFF'
     stroke_kolor = "#939BB4" if is_dark else "#CBD5E1"
     
-    if stan == "roztwor":
+    # Inteligentne rozpoznawanie stanu (łapie polskie znaki i nowe słowa z Excela)
+    if "roztwor" in stan or "roztwór" in stan:
         return f'''<svg width="120" height="180" viewBox="0 0 100 150"><path d="M35 10 L35 120 A 15 15 0 0 0 65 120 L65 10" fill="none" stroke="{stroke_kolor}" stroke-width="4"/><path d="M37 50 L37 120 A 13 13 0 0 0 63 120 L63 50 Z" fill="{hex_color}" opacity="0.9"/><ellipse cx="50" cy="50" rx="13" ry="4" fill="{hex_color}" opacity="1"/><path d="M40 60 L40 100" stroke="white" stroke-width="2" opacity="0.4" stroke-linecap="round"/></svg>'''
-    elif stan in ["osad", "sol (osad)", "siarczek (osad)"]:
+    elif "osad" in stan:
         tlo_wody = "#1E293B" if is_dark else "#F1F5F9"
         return f'''<svg width="120" height="180" viewBox="0 0 100 150"><path d="M35 10 L35 120 A 15 15 0 0 0 65 120 L65 10" fill="none" stroke="{stroke_kolor}" stroke-width="4"/><path d="M37 50 L37 120 A 13 13 0 0 0 63 120 L63 50 Z" fill="{tlo_wody}" opacity="0.5"/><path d="M37 95 L37 120 A 13 13 0 0 0 63 120 L63 105 Z" fill="{hex_color}" opacity="0.95"/></svg>'''
-    elif stan == "gaz":
+    elif "gaz" in stan or "par" in stan:
         return f'''<svg width="120" height="180" viewBox="0 0 100 150"><path d="M40 10 L40 40 L20 120 A 15 15 0 0 0 35 140 L65 140 A 15 15 0 0 0 80 120 L60 40 L60 10 Z" fill="{hex_color}" opacity="0.5" stroke="{stroke_kolor}" stroke-width="3"/><rect x="35" y="5" width="30" height="12" fill="#475569" rx="2"/></svg>'''
-    elif stan == "plomien":
+    elif "plomien" in stan or "płomień" in stan:
         return f'''<svg width="120" height="180" viewBox="0 0 100 150"><path d="M50 20 Q70 60 70 90 A 20 20 0 0 1 30 90 Q30 60 50 20 Z" fill="{hex_color}" opacity="0.85"/><path d="M50 50 Q60 80 60 100 A 10 10 0 0 1 40 100 Q40 80 50 50 Z" fill="#FFF" opacity="0.5"/></svg>'''
-    elif stan in ["pierwiastek", "cialo stale"]:
+    elif "stale" in stan or "stałe" in stan or "pierwiastek" in stan or "proszek" in stan:
         return f'''<svg width="120" height="180" viewBox="0 0 100 150"><path d="M20 110 Q50 130 80 110" fill="none" stroke="{stroke_kolor}" stroke-width="4" stroke-linecap="round"/><path d="M30 106 Q50 75 70 106 Z" fill="{hex_color}" opacity="0.95"/><circle cx="45" cy="95" r="2" fill="#000" opacity="0.2"/></svg>'''
     return ""
 
@@ -84,11 +85,18 @@ def zapisz_wagi(plik_json, slownik_wag):
 @st.cache_data
 def wczytaj_dane():
     plik_z = "związki.csv" if os.path.exists("związki.csv") else "zwiazki.csv"
-    try: df_zwiazki = pd.read_csv(plik_z, sep=";", encoding="utf-8-sig").fillna('')
-    except: df_zwiazki = pd.DataFrame()
+    try: 
+        df_zwiazki = pd.read_csv(plik_z, sep=";", encoding="utf-8-sig").fillna('')
+        # Tarcza ochronna - odrzuca przypadkowe puste wiersze (np. ;;;;;;) z Excela
+        df_zwiazki = df_zwiazki[df_zwiazki['Wzor'] != ''] 
+    except: 
+        df_zwiazki = pd.DataFrame()
     
-    try: df_reakcje = pd.read_csv("reakcje.csv", sep=";", encoding="utf-8-sig").fillna('')
-    except: df_reakcje = pd.DataFrame()
+    try: 
+        df_reakcje = pd.read_csv("reakcje.csv", sep=";", encoding="utf-8-sig").fillna('')
+        df_reakcje = df_reakcje[df_reakcje['Substrat'] != '']
+    except: 
+        df_reakcje = pd.DataFrame()
     
     return df_zwiazki, df_reakcje
 
